@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a sample application friend
+            This is a continuous deployment website testing...
         </div>
     </form>
 </body>
